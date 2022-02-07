@@ -1,7 +1,7 @@
 # Deep Learning YOLOV5 Plankton
 Menerapkan YoloV5 untuk mendeteksi Plankton pada tambak
 
-![image](https://user-images.githubusercontent.com/87703066/152810828-37eec0a1-c87a-4e56-a864-986183558367.png)
+![1](https://user-images.githubusercontent.com/87703066/152811242-664dc07b-16ee-4f2d-a98b-eaa22f5d8420.png)
 
 
 
